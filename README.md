@@ -1,15 +1,15 @@
-## 📚 Education Inequality in U.S. States
-# 📖 Project Overview
+# 📚 Education Inequality in U.S. States
+## 📖 Project Overview
 
-# This project analyzes nationwide school data using Python to uncover patterns of inequality across different states. The analysis highlights disparities in funding, test scores, student–teacher ratios, dropout rates, and socioeconomic backgrounds.
+This project analyzes nationwide school data using Python to uncover patterns of inequality across different states. The analysis highlights disparities in funding, test scores, student–teacher ratios, dropout rates, and socioeconomic backgrounds.
 
-# By applying multivariable scatter plots and a correlation heatmap, the project identifies key trends and underserved school zones, offering a data-driven perspective on educational challenges.
+By applying multivariable scatter plots and a correlation heatmap, the project identifies key trends and underserved school zones, offering a data-driven perspective on educational challenges.
 
-# 📊 Dataset
+## 📊 Dataset
 
-Source: Education Inequality Dataset (Kaggle)
+- Source: Education Inequality Dataset (Kaggle)
 
-Time Span: Covers school-level metrics across 10 U.S. states.
+- Time Span: Covers school-level metrics across 10 U.S. states.
 
 Variables include:
 
