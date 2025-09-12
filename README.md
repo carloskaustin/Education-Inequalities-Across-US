@@ -13,7 +13,7 @@ By applying multivariable scatter plots and a correlation heatmap, the project i
 
 - Variables include:
 
-- Funding per student
+-- Funding per student
 
 - Average test scores
 
