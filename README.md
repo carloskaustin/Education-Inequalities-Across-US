@@ -7,13 +7,11 @@ By applying multivariable scatter plots and a correlation heatmap, the project i
 
 ## 📊 Dataset
 
-- Source: Education Inequality Dataset (Kaggle)
-
-- Time Span: Covers school-level metrics across 10 U.S. states.
+- Source: Education Inequality Dataset (https://www.kaggle.com/datasets/shamimhasan8/education-inequality-data/code)
 
 - Variables include:
 
--- Funding per student
+- Funding per student
 
 - Average test scores
 
