@@ -10,6 +10,13 @@ By applying multivariable scatter plots and a correlation heatmap, the project i
 - Source: Education Inequality Dataset (https://www.kaggle.com/datasets/shamimhasan8/education-inequality-data/code)
 
 Variables include:
+- ID
+
+- School Name
+
+- School Type
+
+- State
 
 - Funding per student
 
