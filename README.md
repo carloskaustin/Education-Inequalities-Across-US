@@ -11,56 +11,56 @@ By applying multivariable scatter plots and a correlation heatmap, the project i
 
 - Time Span: Covers school-level metrics across 10 U.S. states.
 
-Variables include:
+- Variables include:
 
-Funding per student
+- Funding per student
 
-Average test scores
+- Average test scores
 
-Student–teacher ratio
+- Student–teacher ratio
 
-Dropout rate
+- Dropout rate
 
-Percentage of low-income students
+- Percentage of low-income students
 
-Percentage of minority students
+- Percentage of minority students
 
-Internet access availability
+- Internet access availability
 
-🛠️ Methods
+## 🛠️ Methods
 
-Tools & Libraries:
+## Tools & Libraries:
 
-Python (Pandas, NumPy) → Data cleaning & analysis
+- Python (Pandas, NumPy) → Data cleaning & analysis
 
-Seaborn & Matplotlib → Data visualization
+- Seaborn & Matplotlib → Data visualization
 
-Steps Taken:
+## Steps Taken:
 
-Cleaned and pre-processed raw Kaggle dataset.
+- Cleaned and pre-processed raw Kaggle dataset.
 
-Created a correlation heatmap to identify relationships between key variables.
+- Created a correlation heatmap to identify relationships between key variables.
 
-Built multivariable scatter plots to visualize how states compare on funding, test scores, dropout rates, and demographics.
+- Built multivariable scatter plots to visualize how states compare on funding, test scores, dropout rates, and demographics.
 
-Summarized state-level insights (e.g., Michigan’s low scores & funding, Georgia’s high percentage of low-income students, Texas & Illinois dropout concerns).
+- Summarized state-level insights.
 
-🔑 Key Insights
+## 🔑 Key Insights
 
-Michigan: Second-lowest test scores and near the bottom in funding.
+- Michigan: Second-lowest test scores and near the bottom in funding.
 
-Texas & Illinois: Highest dropout rates, both in the lower half of funding.
+- Texas & Illinois: Highest dropout rates, both in the lower half of funding.
 
-Student–Teacher Ratios: All states except Michigan exceed 19 students per teacher.
+- Student–Teacher Ratios: All states except Michigan exceed 19 students per teacher.
 
-Georgia: Highest percentage of low-income students (56%+).
+- Georgia: Highest percentage of low-income students (56%+).
 
-🚀 Next Steps
+## 🚀 Next Steps
 
 Future directions for this project could include:
 
-State-by-State Deep Dive → Evaluate strengths and weaknesses of all 10 states individually.
+- State-by-State Deep Dive → Evaluate strengths and weaknesses of all 10 states individually.
 
-Breakdown by Grade Level & School Type → Explore how inequalities differ across elementary, middle, and high schools, as well as between public, private, and charter schools.
+- Breakdown by Grade Level & School Type → Explore how inequalities differ across elementary, middle, and high schools, as well as between public, private, and charter schools.
 
-Predictive Modeling → Build regression or classification models to predict dropout risk or performance gaps.
+- Predictive Modeling → Build regression or classification models to predict dropout risk or performance gaps.
