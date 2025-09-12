@@ -1,4 +1,4 @@
-# 📚 Education Inequality in U.S. States
+# 📚 Education Inequality Across the US
 ## 📖 Project Overview
 
 This project analyzes nationwide school data using Python to uncover patterns of inequality across different states. The analysis highlights disparities in funding, test scores, student–teacher ratios, dropout rates, and socioeconomic backgrounds.
